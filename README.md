@@ -8,7 +8,7 @@ Follow [these instructions](https://econgrowth.github.io/pages/Computation.html)
 1. [QGIS](https://qgis.org/en/site/forusers/download.html)
 2. Some text editor, [atom](https://atom.io/) is recommended.
 3. [LaTeX](https://www.latex-project.org/get/#tex-distributions)/[LyX](https://www.lyx.org/Download)
-4. Conda GeoPython37 environment. Start by downloading the most recent [Anaconda Distribution](https://www.anaconda.com/distribution/). Then follow the [instructions](https://econgrowth.github.io/pages/Computation.html) on the course's website to create the environment.
+4. Conda GeoPython39 environment. Start by downloading the most recent [Anaconda Distribution](https://www.anaconda.com/distribution/). Then follow the [instructions](https://econgrowth.github.io/pages/Computation.html) on the course's website to create the environment.
 
 ---
 ## Learn some Basics about the Command Line Interface for you OS
